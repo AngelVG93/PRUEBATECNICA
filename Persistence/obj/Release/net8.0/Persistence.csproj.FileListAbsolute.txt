@@ -1,0 +1,15 @@
+D:\PRUEBATECNICAeXalt\Persistence\bin\Release\net8.0\Persistence.deps.json
+D:\PRUEBATECNICAeXalt\Persistence\bin\Release\net8.0\Persistence.dll
+D:\PRUEBATECNICAeXalt\Persistence\bin\Release\net8.0\Persistence.pdb
+D:\PRUEBATECNICAeXalt\Persistence\bin\Release\net8.0\Core.dll
+D:\PRUEBATECNICAeXalt\Persistence\bin\Release\net8.0\Core.pdb
+D:\PRUEBATECNICAeXalt\Persistence\obj\Release\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\PRUEBATECNICAeXalt\Persistence\obj\Release\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRUEBATECNICAeXalt\Persistence\obj\Release\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\PRUEBATECNICAeXalt\Persistence\obj\Release\net8.0\Persistence.AssemblyInfo.cs
+D:\PRUEBATECNICAeXalt\Persistence\obj\Release\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\PRUEBATECNICAeXalt\Persistence\obj\Release\net8.0\Persiste.61C28332.Up2Date
+D:\PRUEBATECNICAeXalt\Persistence\obj\Release\net8.0\Persistence.dll
+D:\PRUEBATECNICAeXalt\Persistence\obj\Release\net8.0\refint\Persistence.dll
+D:\PRUEBATECNICAeXalt\Persistence\obj\Release\net8.0\Persistence.pdb
+D:\PRUEBATECNICAeXalt\Persistence\obj\Release\net8.0\ref\Persistence.dll

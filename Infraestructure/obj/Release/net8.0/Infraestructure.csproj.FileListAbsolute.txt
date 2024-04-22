@@ -1,0 +1,17 @@
+D:\PRUEBATECNICAeXalt\Infraestructure\bin\Release\net8.0\Infraestructure.deps.json
+D:\PRUEBATECNICAeXalt\Infraestructure\bin\Release\net8.0\Infraestructure.dll
+D:\PRUEBATECNICAeXalt\Infraestructure\bin\Release\net8.0\Infraestructure.pdb
+D:\PRUEBATECNICAeXalt\Infraestructure\bin\Release\net8.0\Core.dll
+D:\PRUEBATECNICAeXalt\Infraestructure\bin\Release\net8.0\Persistence.dll
+D:\PRUEBATECNICAeXalt\Infraestructure\bin\Release\net8.0\Core.pdb
+D:\PRUEBATECNICAeXalt\Infraestructure\bin\Release\net8.0\Persistence.pdb
+D:\PRUEBATECNICAeXalt\Infraestructure\obj\Release\net8.0\Infraestructure.csproj.AssemblyReference.cache
+D:\PRUEBATECNICAeXalt\Infraestructure\obj\Release\net8.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRUEBATECNICAeXalt\Infraestructure\obj\Release\net8.0\Infraestructure.AssemblyInfoInputs.cache
+D:\PRUEBATECNICAeXalt\Infraestructure\obj\Release\net8.0\Infraestructure.AssemblyInfo.cs
+D:\PRUEBATECNICAeXalt\Infraestructure\obj\Release\net8.0\Infraestructure.csproj.CoreCompileInputs.cache
+D:\PRUEBATECNICAeXalt\Infraestructure\obj\Release\net8.0\Infraest.B0D41582.Up2Date
+D:\PRUEBATECNICAeXalt\Infraestructure\obj\Release\net8.0\Infraestructure.dll
+D:\PRUEBATECNICAeXalt\Infraestructure\obj\Release\net8.0\refint\Infraestructure.dll
+D:\PRUEBATECNICAeXalt\Infraestructure\obj\Release\net8.0\Infraestructure.pdb
+D:\PRUEBATECNICAeXalt\Infraestructure\obj\Release\net8.0\ref\Infraestructure.dll
